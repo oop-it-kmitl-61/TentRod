@@ -8,6 +8,9 @@ TentRod เป็นโปรแกรมสำหรับเต๊นท์ร
 2. จะเจอไฟล์ tentrod_20181218.bak สามารถนำไฟล์นี้ไป restore ใน sqlserver ได้
 3. วิธี Restore และแก้ config ไฟล์ อยู่นี่ครับ >>>> https://docs.google.com/document/d/10wy-BUVYgJJXcb6NMEuYfV1pOf-JM3rqRFX8PVo-7zw/edit?usp=sharing
 
+# หมายเหตุ
+เวลา run .jar บน windows แล้วหน้าต่าง frame ของโปรแกรม มีการอัพสเกลทำให้ปุ่มบางปุ่มล้นหน้าจอเรา ให้ไปที่ Desktop > คลิกขวา > Display Setting > ปรับ scale and layout เป็น 100% น่าจะหายครับ
+
 # การใช้งาน
 
 [![1.jpg](https://i.postimg.cc/y8WkNs5r/1.jpg)](https://postimg.cc/mPfbXfTQ)
