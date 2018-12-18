@@ -2,6 +2,12 @@
 
 TentRod เป็นโปรแกรมสำหรับเต๊นท์รถมือสอง เพื่อเป็นเครื่องมือสำหรับจัดการการซื้อขายรถ การจัดการสต็อกรถ
 
+# SET UP Database
+ใช้ SQL SERVER
+1. เข้าไปที่โฟลเดอร์ Database
+2. จะเจอไฟล์ tentrod_20181218.bak สามารถนำไฟล์นี้ไป restore ใน sqlserver ได้
+3. วิธี Restore และแก้ config ไฟล์ อยู่นี่ครับ >>>> https://docs.google.com/document/d/10wy-BUVYgJJXcb6NMEuYfV1pOf-JM3rqRFX8PVo-7zw/edit?usp=sharing
+
 # การใช้งาน
 
 [![1.jpg](https://i.postimg.cc/y8WkNs5r/1.jpg)](https://postimg.cc/mPfbXfTQ)
