@@ -9,7 +9,7 @@ TentRod เป็นโปรแกรมสำหรับเต๊นท์ร
 3. วิธี Restore และแก้ config ไฟล์ อยู่นี่ครับ >>>> https://docs.google.com/document/d/10wy-BUVYgJJXcb6NMEuYfV1pOf-JM3rqRFX8PVo-7zw/edit?usp=sharing
 
 # หมายเหตุ
-เวลา run .jar บน windows แล้วหน้าต่าง frame ของโปรแกรม มีการอัพสเกลทำให้ปุ่มบางปุ่มล้นหน้าจอเรา ให้ไปที่ Desktop > คลิกขวา > Display Setting > ปรับ scale and layout เป็น 100% น่าจะหายครับ
+เวลา run .jar บน windows แล้วหน้าต่าง frame ของโปรแกรม มีการอัพสเกลทำให้ปุ่มบางปุ่มล้นหน้าจอเรา ให้ไปที่ Desktop > คลิกขวา > Display Setting > ปรับ scale and layout เป็น 100% น่าจะหายครับ     ไฟล์ Jar อยู่ใน JAR_deploy นะครับ
 
 # การใช้งาน
 
